@@ -55,8 +55,11 @@ The dataset used is a Twitter sentiment dataset (`twitter_training.csv`) with th
 ## Results
 - The model achieved an accuracy of **0.8246** on the test set.
 - Below are some classification result visualizations:
-  
+   
+   -Confusion Matrix
   ![Confusion Matrix](images/confusion_matrix.png)
+
+   -Classification Report
   ![Classification Report](images/classification_report.png)
 
 
