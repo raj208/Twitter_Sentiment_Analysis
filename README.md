@@ -53,10 +53,13 @@ The dataset used is a Twitter sentiment dataset (`twitter_training.csv`) with th
   - Classification report.
 
 ## Results
-The model's performance is evaluated based on metrics like precision, recall, F1-score, and accuracy.
+- The model achieved an accuracy of **0.8246** on the test set.
+- Below are some classification result visualizations:
+  
+  ![Confusion Matrix](images/confusion_matrix.png)
+  ![Classification Report](images/classification_report.png)
 
-## Output
-- The script outputs the confusion matrix and classification report, detailing the model's performance.
+
 
 ## Contributing
 Feel free to raise issues or create pull requests for improvements or bug fixes.
